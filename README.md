@@ -19,7 +19,7 @@ This project provides an in-depth analysis of sales data using SQL and Power BI.
 - **Sales by Product Category**
 - **Sales Trends over Time**
 - **Top Performing Salespersons**
-- 
+ 
 - ## Conclusion
 This project provides a comprehensive analysis of the sales data, helping businesses make data-driven decisions. With the SQL queries and Power BI dashboard, stakeholders can monitor sales performance, identify trends, and optimize strategies for growth.
 
